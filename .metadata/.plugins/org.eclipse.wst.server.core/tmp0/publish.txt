@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Jul 11 22:45:55 IST 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\lucky\ lokesh\\OneDrive\\Desktop\\CustomerRelationshipManagement\\CustomerRelationshipManagement\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\lucky\ lokesh\\OneDrive\\Desktop\\CustomerRelationshipManagement\\CustomerRelationshipManagement\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.2.RELEASE.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE.jar

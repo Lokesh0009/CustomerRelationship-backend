@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\lucky lokesh\OneDrive\Desktop\CustomerRelationshipManagement\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+322762646.index
+2053529981.index
+2865029742.index
+573855780.index
+2284604670.index
+1989146131.index
+2247023997.index

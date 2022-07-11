@@ -1,0 +1,5 @@
+package com.greatlearning.javafsd.customermanagement.service;
+
+public interface CustomerService {
+
+}
